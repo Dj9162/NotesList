@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-`compile with: npm i`
-`to run code: npm start`
-`Hosted Url: https://notes-list-ee8g.vercel.app/`
+#`compile with: npm i`
+#`to run code: npm start`
+#`Hosted Url:` `  https://notes-list-ee8g.vercel.app/`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
